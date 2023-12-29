@@ -31,7 +31,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Program :
           Developed by: R SAKET RAM 
           REGISTER NO: 23013948
-    ![prog](https://github.com/saxxxxxxx/Poisson_distribution/assets/154911090/4c450051-927a-4e67-8b6a-dfaafaa13891)
+![prog](https://github.com/saxxxxxxx/Poisson_distribution/assets/154911090/00d726cb-ac5b-4ba7-a215-86a553ac8474)
 
 
  
